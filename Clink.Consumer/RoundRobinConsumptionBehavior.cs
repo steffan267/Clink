@@ -5,12 +5,12 @@ namespace Clink.Subscriber;
 public class RoundRobinConsumerBehavior : IConsumerBehavior
 {
     private readonly List<IConsumer> _consumers;
-    private readonly IServiceProvider _provider;
+    private readonly List<IEventProcessor> _processors;
 
-    public RoundRobinConsumerBehavior(List<IConsumer> consumers, IServiceProvider provider)
+    public RoundRobinConsumerBehavior(List<IConsumer> consumers, IEnumerable<IEventProcessor> eventProcessors)
     {
         _consumers = consumers;
-        _provider = provider;
+        _processors = eventProcessors.ToList();
     }
     
     public async Task Consume(CancellationToken cancellationToken)
@@ -19,8 +19,7 @@ public class RoundRobinConsumerBehavior : IConsumerBehavior
         {
             foreach (var consumer in _consumers)
             {
-                var handlers = _provider.GetServices<IEventProcessor>()
-                    .Where( p => p.GetConsumerGroup() == consumer.GetType().Name);
+                var handlers = _processors.Where( p => p.GetConsumerGroup() == consumer.GetType().Name);
 
                 await consumer.Consume(handlers);
             }
