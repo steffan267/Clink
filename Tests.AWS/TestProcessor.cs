@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Tests.AWS;
 
+[ConsumerGroup(nameof(SqsConsumer))]
 public class TestProcessor : EventProcessor<ISqsConsumer,TestEvent,TestPayload>
 {
     public TestProcessor(ISqsConsumer consumer, ILogger<EventProcessor<ISqsConsumer, TestEvent, TestPayload>> logger) : base(consumer, logger)

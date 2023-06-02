@@ -21,7 +21,7 @@ public class Tests
                 services.AddSingleton<IAmazonSimpleNotificationService>(SetupFixture.AwsClient.SNS);
                 
                 services.AddScoped<ISqsConsumer, SqsConsumer>();
-                services.AddScoped<IEventProcessor, EventProcessor<SqsConsumer, TestEvent, TestPayload>>();
+                services.AddScoped<IEventProcessor, TestProcessor>();
             })
             .Build();
 
