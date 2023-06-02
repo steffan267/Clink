@@ -1,8 +1,3 @@
-/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.csproj.AssemblyReference.cache
-/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.GeneratedMSBuildEditorConfig.editorconfig
-/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.AssemblyInfoInputs.cache
-/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.AssemblyInfo.cs
-/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.csproj.CoreCompileInputs.cache
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/CoverletSourceRootsMapping
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/NUnit3.TestAdapter.dll
@@ -142,6 +137,11 @@
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/Clink.Consumer.pdb
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/Clink.Core.pdb
 /home/seg/workspace/Clink/Tests.AWS/bin/Debug/net6.0/Clink.Aws.SqsConsumer.pdb
+/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.csproj.AssemblyReference.cache
+/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.AssemblyInfoInputs.cache
+/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.AssemblyInfo.cs
+/home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.csproj.CoreCompileInputs.cache
 /home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.csproj.CopyComplete
 /home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/Tests.AWS.dll
 /home/seg/workspace/Clink/Tests.AWS/obj/Debug/net6.0/refint/Tests.AWS.dll
