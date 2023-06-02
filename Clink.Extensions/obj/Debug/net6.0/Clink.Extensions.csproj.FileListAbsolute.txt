@@ -1,0 +1,12 @@
+/home/seg/workspace/Clink/Clink.Extensions/bin/Debug/net6.0/Clink.Extensions.deps.json
+/home/seg/workspace/Clink/Clink.Extensions/bin/Debug/net6.0/Clink.Extensions.dll
+/home/seg/workspace/Clink/Clink.Extensions/bin/Debug/net6.0/Clink.Extensions.pdb
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.csproj.AssemblyReference.cache
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.AssemblyInfoInputs.cache
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.AssemblyInfo.cs
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.csproj.CoreCompileInputs.cache
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.dll
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/refint/Clink.Extensions.dll
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/Clink.Extensions.pdb
+/home/seg/workspace/Clink/Clink.Extensions/obj/Debug/net6.0/ref/Clink.Extensions.dll

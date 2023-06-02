@@ -1,0 +1,12 @@
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.csproj.AssemblyReference.cache
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.AssemblyInfoInputs.cache
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.AssemblyInfo.cs
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.csproj.CoreCompileInputs.cache
+/home/seg/workspace/Clink/Clink.Core/bin/Debug/net6.0/Clink.Core.deps.json
+/home/seg/workspace/Clink/Clink.Core/bin/Debug/net6.0/Clink.Core.dll
+/home/seg/workspace/Clink/Clink.Core/bin/Debug/net6.0/Clink.Core.pdb
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.dll
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/refint/Clink.Core.dll
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/Clink.Core.pdb
+/home/seg/workspace/Clink/Clink.Core/obj/Debug/net6.0/ref/Clink.Core.dll

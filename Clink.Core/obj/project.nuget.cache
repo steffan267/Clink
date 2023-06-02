@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGW0wZF6gqr/+TAP6LMMbUW1x+ndY/A+/t75mx8JpMtN8orQYzvpNu46hzG6oV5HVT5qgg1S0j0Cil8PjtcZtA==",
+  "success": true,
+  "projectFilePath": "/home/seg/workspace/Clink/Clink.Core/Clink.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/seg/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.3/microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

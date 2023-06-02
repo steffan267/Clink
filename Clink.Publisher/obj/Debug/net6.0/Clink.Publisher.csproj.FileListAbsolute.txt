@@ -1,0 +1,12 @@
+/home/seg/workspace/Clink/Clink.Publisher/bin/Debug/net6.0/Clink.Publisher.deps.json
+/home/seg/workspace/Clink/Clink.Publisher/bin/Debug/net6.0/Clink.Publisher.dll
+/home/seg/workspace/Clink/Clink.Publisher/bin/Debug/net6.0/Clink.Publisher.pdb
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.csproj.AssemblyReference.cache
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.AssemblyInfoInputs.cache
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.AssemblyInfo.cs
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.csproj.CoreCompileInputs.cache
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.dll
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/refint/Clink.Publisher.dll
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/Clink.Publisher.pdb
+/home/seg/workspace/Clink/Clink.Publisher/obj/Debug/net6.0/ref/Clink.Publisher.dll

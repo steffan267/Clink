@@ -1,0 +1,17 @@
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.SqsConsumer.deps.json
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.SqsConsumer.dll
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.SqsConsumer.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.Consumer.dll
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.Core.dll
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.Consumer.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/bin/Debug/net6.0/EventLibrary.Core.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.csproj.AssemblyReference.cache
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.AssemblyInfoInputs.cache
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.AssemblyInfo.cs
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.csproj.CoreCompileInputs.cache
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.csproj.CopyComplete
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.dll
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/refint/EventLibrary.SqsConsumer.dll
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/EventLibrary.SqsConsumer.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.SqsConsumer/obj/Debug/net6.0/ref/EventLibrary.SqsConsumer.dll

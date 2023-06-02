@@ -1,0 +1,17 @@
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Aws.SqsConsumer.deps.json
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Aws.SqsConsumer.dll
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Aws.SqsConsumer.pdb
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Consumer.dll
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Core.dll
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Consumer.pdb
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/bin/Debug/net6.0/Clink.Core.pdb
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.csproj.AssemblyReference.cache
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.AssemblyInfoInputs.cache
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.AssemblyInfo.cs
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.csproj.CoreCompileInputs.cache
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.csproj.CopyComplete
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.dll
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/refint/Clink.Aws.SqsConsumer.dll
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/Clink.Aws.SqsConsumer.pdb
+/home/seg/workspace/Clink/Clink.Aws.SqsConsumer/obj/Debug/net6.0/ref/Clink.Aws.SqsConsumer.dll

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.Core", "Clink.Core\Clink.Core.csproj", "{FA828A7D-BB9C-45D5-92BB-B7013AADDB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.Consumer", "Clink.Consumer\Clink.Consumer.csproj", "{32D0197C-320B-458F-831B-7D2F949C152E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.Publisher", "Clink.Publisher\Clink.Publisher.csproj", "{2CD03AF3-B7EF-43A1-8087-5480FCA059C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.TestHelpers", "Clink.TestHelpers\Clink.TestHelpers.csproj", "{1F04DDD0-A8CD-4979-AAAD-5D141A1959AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.Extensions", "Clink.Extensions\Clink.Extensions.csproj", "{CECF179A-8213-470A-B223-326F2C074AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clink.Aws.SqsConsumer", "Clink.Aws.SqsConsumer\Clink.Aws.SqsConsumer.csproj", "{FB788D3F-0CB9-44E5-8123-BE798DCFE05D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.AWS", "Tests.AWS\Tests.AWS.csproj", "{BA36098F-5D85-4A98-9021-1016E1985B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA828A7D-BB9C-45D5-92BB-B7013AADDB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA828A7D-BB9C-45D5-92BB-B7013AADDB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA828A7D-BB9C-45D5-92BB-B7013AADDB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA828A7D-BB9C-45D5-92BB-B7013AADDB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D0197C-320B-458F-831B-7D2F949C152E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D0197C-320B-458F-831B-7D2F949C152E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D0197C-320B-458F-831B-7D2F949C152E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D0197C-320B-458F-831B-7D2F949C152E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD03AF3-B7EF-43A1-8087-5480FCA059C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD03AF3-B7EF-43A1-8087-5480FCA059C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD03AF3-B7EF-43A1-8087-5480FCA059C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD03AF3-B7EF-43A1-8087-5480FCA059C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F04DDD0-A8CD-4979-AAAD-5D141A1959AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F04DDD0-A8CD-4979-AAAD-5D141A1959AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F04DDD0-A8CD-4979-AAAD-5D141A1959AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F04DDD0-A8CD-4979-AAAD-5D141A1959AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECF179A-8213-470A-B223-326F2C074AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF179A-8213-470A-B223-326F2C074AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF179A-8213-470A-B223-326F2C074AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF179A-8213-470A-B223-326F2C074AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB788D3F-0CB9-44E5-8123-BE798DCFE05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB788D3F-0CB9-44E5-8123-BE798DCFE05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB788D3F-0CB9-44E5-8123-BE798DCFE05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB788D3F-0CB9-44E5-8123-BE798DCFE05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA36098F-5D85-4A98-9021-1016E1985B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36098F-5D85-4A98-9021-1016E1985B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36098F-5D85-4A98-9021-1016E1985B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36098F-5D85-4A98-9021-1016E1985B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

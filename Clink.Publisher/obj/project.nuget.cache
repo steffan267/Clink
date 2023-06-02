@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftN+tzmYp9kbUaliSyKoZu4MCPFT4cpyr11aKSVDdX7ffVCSyO7e2oKR3I9iP5IVZ70YTSubgPTk94Vr6ghPRw==",
+  "success": true,
+  "projectFilePath": "/home/seg/workspace/Clink/Clink.Publisher/Clink.Publisher.csproj",
+  "expectedPackageFiles": [
+    "/home/seg/.nuget/packages/awssdk.core/3.7.106.44/awssdk.core.3.7.106.44.nupkg.sha512",
+    "/home/seg/.nuget/packages/awssdk.simplenotificationservice/3.7.101.73/awssdk.simplenotificationservice.3.7.101.73.nupkg.sha512"
+  ],
+  "logs": []
+}

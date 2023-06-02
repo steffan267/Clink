@@ -1,0 +1,12 @@
+
+
+
+1. Consumers must set serializer
+2. Consumers must be able to define BeforeReceive, OnReceive and OnError handlers.
+3. Consumers must be able to define parallelization
+    - Consumers must be able to define if the tasks does round robin on queues, dedicated or priority queue
+    
+    
+4. Should be able to HALT consumption on runtime (implementor of library defines bool that is checked)
+
+5. Must be able to specify what should happen on an unknown event type

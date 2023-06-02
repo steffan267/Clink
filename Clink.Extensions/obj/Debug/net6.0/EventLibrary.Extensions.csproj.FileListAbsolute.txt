@@ -1,0 +1,12 @@
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/bin/Debug/net6.0/EventLibrary.Extensions.deps.json
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/bin/Debug/net6.0/EventLibrary.Extensions.dll
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/bin/Debug/net6.0/EventLibrary.Extensions.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.csproj.AssemblyReference.cache
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.AssemblyInfoInputs.cache
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.AssemblyInfo.cs
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.csproj.CoreCompileInputs.cache
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.dll
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/refint/EventLibrary.Extensions.dll
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/EventLibrary.Extensions.pdb
+/home/seg/workspace/EventLibrary/EventLibrary.Extensions/obj/Debug/net6.0/ref/EventLibrary.Extensions.dll
